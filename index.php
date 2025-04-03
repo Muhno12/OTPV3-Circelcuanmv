@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       justify-content: center;
       align-items: center;
       min-height: 100vh;
-      background: linear-gradient(135deg, #f39c12, #e74c3c, #8e44ad);
+      background: linear-gradient(135deg, #1976D2, #1976D2, #1976D2);
       animation: gradient 10s ease infinite;
       margin: 0;
       padding: 0;
